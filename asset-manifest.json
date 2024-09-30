@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-Balibol-navbar/static/css/main.dd356dc8.css",
+    "main.js": "/ws101-Balibol-navbar/static/js/main.1e4e8c14.js",
+    "index.html": "/ws101-Balibol-navbar/index.html",
+    "main.dd356dc8.css.map": "/ws101-Balibol-navbar/static/css/main.dd356dc8.css.map",
+    "main.1e4e8c14.js.map": "/ws101-Balibol-navbar/static/js/main.1e4e8c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd356dc8.css",
+    "static/js/main.1e4e8c14.js"
+  ]
+}
